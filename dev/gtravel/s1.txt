@@ -1,5 +1,0 @@
-{
-from:"Kormangala,Bangalore, Karnataka, India"
-to: "IndiraNagar, Bangalore, Karnataka, India"
-"time":1020
-}
